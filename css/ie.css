@@ -1,0 +1,9 @@
+#search-form input,
+.menu, .menu > li.first-item > a, .menu > li.last-item > a,
+.button,
+.img-box{behavior: url(js/PIE.htc); position:relative;}
+
+.menu ul{behavior: url(js/PIE.htc);}
+
+.flexslider .hover-img{filter:alpha(opacity=0);}
+#toTopHover {filter:alpha(opacity=0);}
